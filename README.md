@@ -60,3 +60,7 @@ Short: http://www.omegahat.net/RSXML/shortIntro.pdf
 Long: http://www.omegahat.net/RSXML/Tour.pdf
 
 Awesome XML package resource : http://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/XML.pdf
+
+
+# JSON
+jsonlite package
