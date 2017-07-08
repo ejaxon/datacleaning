@@ -5,7 +5,7 @@ Github repo for course (i.e., presentations):
 
 https://github.com/DataScienceSpecialization/courses/tree/master/03_GettingData
 
-
+[How to share data with a statistician](https://github.com/jtleek/datasharing)
 ## URLs
 
 https://www.w3schools.com/xml/simple.xml
